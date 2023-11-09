@@ -1,5 +1,4 @@
-# git-digital-course
+# Curso Digitaç: Git 
 
-## Mudanças no repositório/Versionamento
-
-# Título Secundário 
+## Salvando alterações no Git 
+* comando git push
